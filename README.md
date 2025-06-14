@@ -11,7 +11,7 @@ This project is just made in fun. Trying to make it as great as possible.
 
 ## BEFORE INSTALLATION
 
->! Disclaimer: This project is built on linux, though it would be installed in the same way in other OS, installing and upgrading the package managers might differ !<
+> ! Disclaimer: This project is built on linux, though it would be installed in the same way in other OS, installing and upgrading the package managers might differ
 
 Check if you have [Node.js](https://nodejs.org/) installed -
 

@@ -65,7 +65,7 @@ npm run dev
 
 Now open your browser and visit -
 
-[localhost:4321](localhost:4321)
+[localhost:4321](https://localhost:4321)
 
 
 Congrats! You're good to go!

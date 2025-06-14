@@ -1,47 +1,78 @@
-# Astro Starter Kit: Minimal
+# A PRACTICE PROJECT IN ASTRO - BUSTLING-BAR
 
-```sh
-npm create astro@latest -- --template minimal
+This project is just made in fun. Trying to make it as great as possible.
+
+## STACK -
+
+- [Astro](https://astro.build/)
+- [React](https://react.dev/)
+- [Paper shaders](https://github.com/paper-design/shaders)
+
+
+## BEFORE INSTALLATION
+
+>! Disclaimer: This project is built on linux, though it would be installed in the same way in other OS, installing and upgrading the package managers might differ !<
+
+Check if you have [Node.js](https://nodejs.org/) installed -
+
+```bash
+node -v
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+then check if you have any of the following installed and latest version -
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+```bash
+npm -v
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+```bash
+pnpm -v
+```
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+```bash
+yarn -v
+```
 
-Any static assets, like images, can be placed in the `public/` directory.
+Upgrade to the latest version before continuing...
 
-## 🧞 Commands
 
-All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## INSTALLATION
 
-## 👀 Want to learn more?
+First clone the repo -
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+```bash
+https://github.com/donendosted/Bustling-bar.git
+```
+
+then, get into the directory -
+
+```bash
+cd ./Bustling-bar
+```
+
+install the node packages and modules with your desired package manager, I use npm, not much different in other package managers -
+
+```bash
+npm install
+```
+
+then run the dev version of the project -
+
+```bash
+npm run dev
+```
+
+Now open your browser and visit -
+
+[localhost:4321](localhost:4321)
+
+
+Congrats! You're good to go!
+
+
+## MAINTAINANCE
+
+I am still building this project as I am learning to build in Astro and React, I shall also try Tailwind as it is very accessable, but I'm still used to Vanilla styiling. 
+
+Signing off as of now, dos.

@@ -42,7 +42,7 @@ Upgrade to the latest version before continuing...
 First clone the repo -
 
 ```bash
-https://github.com/donendosted/Bustling-bar.git
+git clone https://github.com/donendosted/Bustling-bar.git
 ```
 
 then, get into the directory -
